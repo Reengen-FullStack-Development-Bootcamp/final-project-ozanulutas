@@ -2,13 +2,17 @@
 
 This is the final porject of Reengen & Patika.dev bootcamp. You can reach project repos and readmes by following links. 
 
-**IMORTANT NOTE:** The project does not run very stable on vercel, but runs completely fine on local.
+**IMPORTANT NOTE:** The project does not run very stable on vercel, but runs completely fine on local.
 
 :point_right: [Backend Repo](https://github.com/ozanulutas/energy-watch-backend)
 
 :point_right: [Frontend Repo](https://github.com/ozanulutas/energy-watch-frontend)
 
 :point_right: [Project Link](https://energy-watch-frontend.vercel.app/)
+
+## Test Account
+**email**: admin@admin.com
+**password**: Admin123
 
 ## Some Notes
 
